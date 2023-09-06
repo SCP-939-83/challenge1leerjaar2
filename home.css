@@ -2,7 +2,9 @@ body {
     background-color: rgb(0,174,239);
   }
 .lanpartyimage {
+ top: 100px;
+ left: 100px;
  width: 100px;
  height: 100px;
- position: relative;
+ position: absolute;
   }
